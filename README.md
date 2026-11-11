@@ -28,10 +28,10 @@ Laravel, PHP, MySQL, JavaScript, Python
 
 ## Диаграммалар
 ### 1. Use Case
-(кейін қосылады)
+![Activity](docs/diagrams/01-usecase.png)
 
 ### 2. Class
-(кейін қосылады)
+![Activity](docs/diagrams/02-class.png)
 
 ### 3. Activity: ЖИ талдауы негізінде жеке ұсыныстар алу
 ![Activity](docs/diagrams/03-activity.png)
