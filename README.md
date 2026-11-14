@@ -37,4 +37,4 @@ Laravel, PHP, MySQL, JavaScript, Python
 ![Activity](docs/diagrams/03-activity.png)
 
 ### 4. Sequence: ЖИ талдауы негізінде жеке ұсыныстар алу
-(4-жұмыста қосылады)
+![Sequence](docs/diagrams/04-sequence.png)
